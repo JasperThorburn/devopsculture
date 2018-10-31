@@ -38,7 +38,20 @@ This repository contains the materials for the DevOps Workshop.
 | [Opening & Introductions](/Intro/README.md)                                                                                                             | 1:00 (9:30 - 10:30)
 | [Being Agile](/Intro/beingagile.md) | 1:30 (10:30 - 12:00)
 | _Lunch Break_                                                                                                                            | 1:00 (12:00 - 13:00)     |
-| [Lab 1 - Basic Environment](/Lab_1/README.md) | 2:00 (13:00 - 15:00)
+| [Lab 1 - DevOps for Basic Environment](/Lab_1/README.md) | 2:00 (13:00 - 15:00)
 | _Break_                                                                                                                                  | 0:15 (15:00 - 15:15)     |
 | [Lab 1 cont'd](/Lab_1/lab1.md) | 2:00 (15:15 - 17:15)
 | :tophat: Day 1 Recap                                                                                                                              | 0:15 (17:15 - 17:30)
+
+---
+## Day 2 - Pipeline
+
+| Lecture, tutorial, discussion                  | :hourglass_flowing_sand: |
+|:---------------------------------------------- |:------------------------ |
+| :tophat: Recap of Day 1 | 0:15 (9:00 - 09:15)      |
+| [Lab 2 - Devops for Scaling](/Lab_2/README.md) | 2:45 (9:15 - 12:00)      |
+| _Lunch Break_                                  | 1:00 (12:00 - 13:00)     |
+| [Lab 2 - cont'd](/Lab_2/README.md)             | 2:00 (13:00 - 15:00)     |
+| _Break_                                        | 0:15 (15:00 - 15:15)     |
+| [Lab 2 cont'd](/Lab_2/README.md)               | 2:00 (15:15 - 17:15)     |
+| :tophat: Day 2 Recap                           | 0:15 (17:15 - 17:30)     |

@@ -12,15 +12,16 @@
 [:movie_camera:](https://www.youtube.com/watch?v=mpsQFEpiOj4)
 * ![Jenkins X](/images/2018/10/jenkins-x.png)&nbsp;&nbsp; [Jenkins X (for cloud)](https://jenkins-x.io)
 
-# Docker
+### Docker
 
 ![Container](/images/2018/10/container.png)
 
-# Kubernetes
+### Kubernetes
 
 ![Kubernetes](/images/2018/10/kubernetes.png)
 
-# Exercises
+---
+## Exercises
 
 * [Step 1](/Lab_1/Step_1.pdf)
 * [Steps 2A - C](/Lab_1/Steps_2A_thru_C.pdf)
@@ -28,10 +29,11 @@
 * [Steps 3, 4 & 5](/Lab_1/Steps_3_4_and_5.pdf)
 * [Reach for it](/Lab_1/Extension.pdf)
 
-# Recap
+---
+## Recap
 
 * What did you learn?
 
-# Entertainment
+## Entertainment
 
 * [Bootstrapping with Cloudbees](https://www.youtube.com/watch?v=hnCNJ5IYWFM)
