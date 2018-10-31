@@ -1,6 +1,6 @@
 # Course Prerequisites
 
-The prerequisites for this course include links to content and foundational DevOps content, links to specific tools, and instructions on how to install the VM. The duration is 4-8 hours (depending on which foundational and tools content you view) plus the time it will take to install the VM.
+The prerequisites for this course include links to content and foundational DevOps content, links to specific tools, and instructions on how to install the VM.
 
 ## Requisite Technical Knowledge
 
@@ -8,12 +8,11 @@ In order to be successful in this course, you should be familiar with working an
 
 ## Technical Prereqs
 
-> ### Jenkins
 >Please view the "Meet Jenkins" web page to learn about this cross-platform, continuous integration, and continuous delivery application.
 >
 >* [Meet Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins)
 
-### And then...
+#### And then...
 * [Set up your VM](/Prereqs/Setup_VM.pdf)
 * [Git, Docker, Jenkins and Node](/Prereqs/Git_Docker_Jenkins_and_Node.pdf)
 
