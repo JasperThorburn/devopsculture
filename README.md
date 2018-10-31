@@ -40,6 +40,6 @@ This repository contains the materials for the DevOps Workshop.
 | _Lunch Break_                                                                                                                            | 1:00 (12:00 - 13:00)     |
 | [Lab 1 - Environment](/Lab 1/lab1.md) | 2:00 (13:00 - 15:00)
 | _Break_                                                                                                                                  | 0:15 (15:00 - 15:15)     |
-| [Lab 1 (cont'd)](/Lab 1/lab1.md) | 2:15 (15:15 - 17:30)
+| [Lab 1 cont'd](/Lab 1/lab1.md) | 2:15 (15:15 - 17:30)
 
 | :tophat: Day 1 Recap                                                                                                                              | 0:15 (18:00 - 18:15)
