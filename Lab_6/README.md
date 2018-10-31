@@ -1,4 +1,4 @@
-# Lab 6 - Dashboards (Information Radiation)
+# Lab 6 - Dashboards (Information Radiators)
 
 ## Exercises
 

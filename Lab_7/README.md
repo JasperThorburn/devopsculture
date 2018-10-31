@@ -1,11 +1,6 @@
-# Cloud
+# Lab 7 - Cloud
 
+## Exercises
 
-
-### Docker
-
-![Container](/images/2018/10/container.png)
-
-### Kubernetes
-
-![Kubernetes](/images/2018/10/kubernetes.png)
+* [Step 1](/Lab_7/Lab7_Step_1.pdf)
+* [Steps 2A & 2B](/Lab_7/Lab7_Steps_2A_and_B.pdf)
