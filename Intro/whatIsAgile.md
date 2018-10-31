@@ -1,4 +1,6 @@
-# What is Agile?
+# Being Agile
+
+&nbsp;&nbsp;&nbsp;:scroll:&nbsp;&nbsp;[The Manifesto](http://agilemanifesto.org)
 
 ---
 ## Short and snappy about Agile and Devops

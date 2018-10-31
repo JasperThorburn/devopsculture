@@ -35,7 +35,7 @@ This repository contains the materials for the DevOps Workshop.
 
 | Lecture, tutorial, discussion                                                                                                            | :hourglass_flowing_sand: |
 | :--------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- |
-| [Opening & Introductions](/Intro/intro.md)                                                                                                             | 1:00 (9:30 - 10:30)
+| [Opening & Introductions](/Intro/README.md)                                                                                                             | 1:00 (9:30 - 10:30)
 | [What Is Agile](/Intro/whatIsAgile.md) | 1:30 (10:30 - 12:00)
 | _Lunch Break_                                                                                                                            | 1:00 (12:00 - 13:00)     |
 | [Lab 1 - Basic Environment](/Lab_1/README.md) | 2:00 (13:00 - 15:00)
