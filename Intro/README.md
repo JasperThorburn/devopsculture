@@ -33,4 +33,4 @@
 
 * VM installed and configured?
 
-[Next up: Being Agile](/Intro/whatIsAgile.md)
+[Next up: Being Agile](/Intro/beingagile.md)
