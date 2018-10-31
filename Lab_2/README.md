@@ -8,4 +8,4 @@
 
 ### It's not cheating if you learn
 > [Video walkthrough](/Lab_2/materials/lab2_edited.mp4)<br>
-> [Slides](/Lab_2/materials/lab2.ppt)
+> [Slides](/Lab_2/materials/Lab_2.ppt)
