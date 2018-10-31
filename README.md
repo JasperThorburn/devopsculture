@@ -27,9 +27,15 @@ This repository contains the materials for the DevOps Workshop.
 * Exact answers and tools for use in your project
 * A showcase of IBM tooling
 
-# Agenda
+---
+# Prereqs
+
+* [General & Knowledge](/Prereqs/prereqs.md)
+* [Setting up your VM](/Prereqs/Setup_VM.pdf)
+* [Git, Docker, Jenkins and Node](/Prereqs/Git_Docker_Jenkins_and_Node.pdf)
 
 ---
+# Agenda
 
 ## Day 1 - Introduction, Agile & DevOps, IBM Cloud and Exercise 1
 
@@ -38,20 +44,33 @@ This repository contains the materials for the DevOps Workshop.
 | [Opening & Introductions](/Intro/README.md)                                                                                                             | 1:00 (9:30 - 10:30)
 | [Being Agile](/Intro/beingagile.md) | 1:30 (10:30 - 12:00)
 | _Lunch Break_                                                                                                                            | 1:00 (12:00 - 13:00)     |
-| [Lab 1 - DevOps for Basic Environment](/Lab_1/README.md) | 2:00 (13:00 - 15:00)
+| [Lab 1 - Environment](/Lab_1/README.md) | 2:00 (13:00 - 15:00)
 | _Break_                                                                                                                                  | 0:15 (15:00 - 15:15)     |
 | [Lab 1 cont'd](/Lab_1/lab1.md) | 2:00 (15:15 - 17:15)
 | :tophat: Day 1 Recap                                                                                                                              | 0:15 (17:15 - 17:30)
 
 ---
-## Day 2 - Pipeline
+## Day 2 - Pipeline & Functional Testing
 
 | Lecture, tutorial, discussion                  | :hourglass_flowing_sand: |
 |:---------------------------------------------- |:------------------------ |
 | :tophat: Recap of Day 1 | 0:15 (9:00 - 09:15)      |
-| [Lab 2 - Devops for Scaling](/Lab_2/README.md) | 2:45 (9:15 - 12:00)      |
+| [Lab 2 - Scaling](/Lab_2/README.md) | 2:45 (9:15 - 12:00)      |
 | _Lunch Break_                                  | 1:00 (12:00 - 13:00)     |
-| [Lab 2 - cont'd](/Lab_2/README.md)             | 2:00 (13:00 - 15:00)     |
+| [Lab 3 - Functional Testing](/Lab_3/README.md)             | 2:00 (13:00 - 15:00)     |
 | _Break_                                        | 0:15 (15:00 - 15:15)     |
-| [Lab 2 cont'd](/Lab_2/README.md)               | 2:00 (15:15 - 17:15)     |
+| [Lab 3 cont'd](/Lab_3/README.md)               | 2:00 (15:15 - 17:15)     |
 | :tophat: Day 2 Recap                           | 0:15 (17:15 - 17:30)     |
+
+---
+## Day 3 - NFRs, Scaling Jenkins, Info Radiators, Cloud
+
+| Lecture, tutorial, discussion                  | :hourglass_flowing_sand: |
+|:---------------------------------------------- |:------------------------ |
+| :tophat: Recap of Day 2 | 0:15 (9:00 - 09:15)      |
+| [Lab 4 - Non-Functional Testing](/Lab_4/README.md) | 1:30 (9:15 - 10:45)      |
+| [Lab 5 - Scaling Jenkins](/Lab_5/README.md) | 1:15 (10:45 - 12:00)      |
+| _Lunch Break_                                  | 1:00 (12:00 - 13:00)     |
+| [Lab 6 - Information Radiators & Monitoring](/Lab_6/README.md)             | 2:00 (13:00 - 15:00)     |
+| [Lab 7 - **If you have time** Cloud](/Lab_7/README.md)             | 0:45 (15:00 - 15:45)  |
+| :tophat: Day 3 Recap and goodbyes                | 0:15 (15:45 - 16:00)     |
