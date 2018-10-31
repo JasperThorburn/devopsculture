@@ -2,8 +2,8 @@
 
 ## Your hosts
 
-![Death Star](images/2018/10/Death-Star.jpg)
-![Roy Mitchley](images/2018/10/roy-mitchley.png)
+![Death Star](./images/Death-Star.jpg)
+![Roy Mitchley](./images/roy-mitchley.png)
 
 * [*Roy Mitchley*](https://w3.ibm.com/bluepages/profile.html?uid=084208806)
 * [*Simon Head*](https://w3.ibm.com/bluepages/profile.html?uid=115936866)
