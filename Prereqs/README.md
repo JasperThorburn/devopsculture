@@ -12,7 +12,7 @@ In order to be successful in this course, you should be familiar with working an
 >
 >* [Meet Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins)
 
-#### And then...
+#### And then if you have not already done so...
 * [Set up your VM](/Prereqs/Setup_VM.pdf)
 * [Git, Docker, Jenkins and Node](/Prereqs/Git_Docker_Jenkins_and_Node.pdf)
 

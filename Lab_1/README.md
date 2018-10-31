@@ -12,14 +12,6 @@
 [:movie_camera:](https://www.youtube.com/watch?v=mpsQFEpiOj4)
 * ![Jenkins X](/images/2018/10/jenkins-x.png)&nbsp;&nbsp; [Jenkins X (for cloud)](https://jenkins-x.io)
 
-### Docker
-
-![Container](/images/2018/10/container.png)
-
-### Kubernetes
-
-![Kubernetes](/images/2018/10/kubernetes.png)
-
 ---
 ## Exercises
 
