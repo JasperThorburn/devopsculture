@@ -31,14 +31,14 @@ This repository contains the materials for the DevOps Workshop.
 
 ---
 
-## Day 1 - Introduction, IBM Cloud & DevOps
+## Day 1 - Introduction, Agile & DevOps, IBM Cloud and Exercise 1
 
 | Lecture, tutorial, discussion                                                                                                            | :hourglass_flowing_sand: |
 | :--------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- |
 | [Opening & Introductions](/Intro/intro.md)                                                                                                             | 1:00 (9:30 - 10:30)
 | [What Is Agile](/Intro/whatIsAgile.md) | 1:30 (10:30 - 12:00)
 | _Lunch Break_                                                                                                                            | 1:00 (12:00 - 13:00)     |
-| [Lab 1 - Environment](/Lab_1/README.md) | 2:00 (13:00 - 15:00)
+| [Lab 1 - Basic Environment](/Lab_1/README.md) | 2:00 (13:00 - 15:00)
 | _Break_                                                                                                                                  | 0:15 (15:00 - 15:15)     |
 | [Lab 1 cont'd](/Lab_1/lab1.md) | 2:00 (15:15 - 17:15)
 | :tophat: Day 1 Recap                                                                                                                              | 0:15 (17:15 - 17:30)
