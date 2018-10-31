@@ -16,9 +16,8 @@
 ## Exercises
 
 * [Step 1](/Lab_1/Step_1.pdf)
-* [Steps 2A - C](/Lab_1/Steps_2A_thru_C.pdf)
-* [Steps 2D & E](/Lab_1/Steps_2D_and_E.pdf)
-* [Reach for it](/Lab_1/Extension.pdf)
+* [Steps 2A & B](/Lab_1/Steps_2A_and_B.pdf)
+* [Steps 2C & D](/Lab_1/Steps_2C_and_D.pdf)
 
 ### It's not cheating if you learn
 > [Video walkthrough](/Lab_1/materials/lab1_edited.mp4)<br>
