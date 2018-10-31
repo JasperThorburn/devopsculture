@@ -29,12 +29,6 @@
 * Now do it again, but only draw one feature. Then get up and move one seat to your right, adding another feature to their drawing. Repeat until done.
 * One more time, but draw one feature and pass it to your squadmate to the right.
 
----
-## Short and snappy about Agile and Devops
+## Are you ready?
 
-* [Agile Engineering Culture - Part 1](https://www.youtube.com/watch?v=4GK1NDTWbkY)
-* [Agile Engineering Culture - Part 2](https://www.youtube.com/watch?v=rzoyryY2STQ&t=5s)
-* [Product Owner in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
-* [DevOps](https://www.youtube.com/watch?v=cus7WYHdQic)
-* [Also DevOps](https://www.youtube.com/watch?v=Ait2-9NCkpk)
----
+* VM installed and configured?
