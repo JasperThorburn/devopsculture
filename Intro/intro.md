@@ -2,9 +2,8 @@
 
 ## Your hosts
 
-![Death Star](./images/Death-Star.jpg)
-![Roy Mitchley](/images/folk/roy-mitchley.png)
+![Roy Mitchley](/images/folk/roy-mitchley.png)  [...](https://w3.ibm.com/bluepages/profile.html?uid=084208806)
 
-* [*Roy Mitchley*](https://w3.ibm.com/bluepages/profile.html?uid=084208806)
-* [*Simon Head*](https://w3.ibm.com/bluepages/profile.html?uid=115936866)
-* [*Eddie Hartman*](https://w3.ibm.com/bluepages/profile.html?uid=010196806)
+![Simon Head](/images/folk/simon-head.png) [...](https://w3.ibm.com/bluepages/profile.html?uid=115936866)
+
+![](/images/folk/eddie-hartman.png) [...](https://w3.ibm.com/bluepages/profile.html?uid=010196806)
