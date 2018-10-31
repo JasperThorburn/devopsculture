@@ -10,7 +10,7 @@
 [:movie_camera:](https://www.youtube.com/watch?v=47uih9Tp6H8)
 * ![Jenkins](/images/2018/10/jenkins.png)&nbsp;&nbsp; [Jenkins](https://jenkins.io)
 [:movie_camera:](https://www.youtube.com/watch?v=mpsQFEpiOj4)
-* ![Jenkins X](images/2018/10/jenkins-x.png)&nbsp;&nbsp; [Jenkins X (for cloud)](https://jenkins-x.io)
+* ![Jenkins X](/images/2018/10/jenkins-x.png)&nbsp;&nbsp; [Jenkins X (for cloud)](https://jenkins-x.io)
 
 ## Docker
 
