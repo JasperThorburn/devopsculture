@@ -1,4 +1,4 @@
-# Lab 3 - Scaling
+# Lab 3 - Functional Testing
 
 ## Exercises
 

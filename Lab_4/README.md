@@ -1,4 +1,4 @@
-# Lab 4 - Functional Testing
+# Lab 4 - Non-Functional Testing
 
 ## Exercises
 
