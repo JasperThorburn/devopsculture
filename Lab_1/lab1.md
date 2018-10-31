@@ -2,7 +2,7 @@
 
 ## Tools
 
-* ![Puppet](images/2018/10/puppet.png)[Puppet](https://puppet.com)
+* ![Puppet](/images/2018/10/puppet.png)[Puppet](https://puppet.com)
 [:movie_camera:](https://www.youtube.com/watch?v=QFcqvBk1gNA)
 * [Git](https://git-scm.com)
 [:movie_camera:](https://www.youtube.com/watch?v=DR7MLaAKcUk)
