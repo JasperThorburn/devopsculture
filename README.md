@@ -65,5 +65,5 @@ This repository contains the materials for the DevOps Workshop.
 | [Lab 5 - Scaling Jenkins](/Lab_5/README.md) | 1:15 (10:45 - 12:00)      |
 | _Lunch Break_                                  | 1:00 (12:00 - 13:00)     |
 | [Lab 6 - Information Radiators & Monitoring](/Lab_6/README.md)             | 2:00 (13:00 - 15:00)     |
-| [Lab 7 - Cloud _if you have time_](/Lab_7/README.md)             | 0:45 (15:00 - 15:45)  |
+| [Lab 7 - Cloud &nbsp;&nbsp; _(if you have time)_](/Lab_7/README.md)             | 0:45 (15:00 - 15:45)  |
 | :tophat: Day 3 Recap and goodbyes                | 0:15 (15:45 - 16:00)     |
