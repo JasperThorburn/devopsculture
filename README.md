@@ -35,7 +35,7 @@ This repository contains the materials for the DevOps Workshop.
 
 | Lecture, tutorial, discussion                                                                                                            | :hourglass_flowing_sand: |
 | :--------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- |
-| [01 - Opening & Introductions](./intro/intro.md)                                                                                                             | 0:45 (10:00 - 10:45)     
+| [01 - Opening & Introductions](./Intro/intro.md)                                                                                                             | 0:45 (10:00 - 10:45)     
 | [03 - Microservices/API Presentation 1/2](./presentations/03%20-%20Microservices%20and%20APIs.pptx) | 1:15 (10:45 - 12:00)
 | _Lunch Break_                                                                                                                            | 1:00 (13:00 - 14:00)     |
 | _Break_                                                                                                                                  | 0:15 (15:00 - 15:15)     |
