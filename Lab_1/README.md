@@ -29,6 +29,9 @@
 * [Steps 3, 4 & 5](/Lab_1/Steps_3_4_and_5.pdf)
 * [Reach for it](/Lab_1/Extension.pdf)
 
+> [Video walkthrough](/Lab_1/materials/lab1_edited.mp4)
+> [Slides](/Lab_1/materials/lab1.ppt)
+
 ---
 ## Recap
 
