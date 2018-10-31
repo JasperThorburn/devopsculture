@@ -9,7 +9,7 @@ In order to be successful in this course, you should be familiar with working an
 ## Technical Prereqs
 
 > ### Jenkins
-Please view the "Meet Jenkins" web page to learn about this cross-platform, continuous integration, and continuous delivery application.
+>Please view the "Meet Jenkins" web page to learn about this cross-platform, continuous integration, and continuous delivery application.
 >
 >* [Meet Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins)
 
