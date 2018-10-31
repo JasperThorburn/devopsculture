@@ -31,8 +31,7 @@ This repository contains the materials for the DevOps Workshop.
 # Prereqs
 
 * [General & Knowledge](/Prereqs/prereqs.md)
-* [Setting up your VM](/Prereqs/Setup_VM.pdf)
-* [Git, Docker, Jenkins and Node](/Prereqs/Git_Docker_Jenkins_and_Node.pdf)
+
 
 ---
 # Agenda
