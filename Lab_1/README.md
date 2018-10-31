@@ -26,7 +26,6 @@
 * [Step 1](/Lab_1/Step_1.pdf)
 * [Steps 2A - C](/Lab_1/Steps_2A_thru_C.pdf)
 * [Steps 2D & E](/Lab_1/Steps_2D_and_E.pdf)
-* [Steps 3, 4 & 5](/Lab_1/Steps_3_4_and_5.pdf)
 * [Reach for it](/Lab_1/Extension.pdf)
 
 ### It's not cheating if you learn
