@@ -1,4 +1,4 @@
-# Environment
+# Lab 1 - Environment
 
 ## Tools
 
@@ -19,15 +19,7 @@
 * [Steps 2A & B](/Lab_1/Lab1_Steps_2A_and_B.pdf)
 * [Steps 2C & D](/Lab_1/Lab1_Steps_2C_and_D.pdf)
 
-### It's not cheating if you learn
-> [Video walkthrough](/Lab_1/materials/lab1_edited.mp4)<br>
-> [Slides](/Lab_1/materials/Lab1.ppt)
-
 ---
-## Recap
-
-* What did you learn?
-
 ## Entertainment
 
 * [Bootstrapping with Cloudbees](https://www.youtube.com/watch?v=hnCNJ5IYWFM)
