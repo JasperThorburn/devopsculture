@@ -32,3 +32,5 @@
 ## Are you ready?
 
 * VM installed and configured?
+
+[Next up: Being Agile](/Intro/whatIsAgile.md)
