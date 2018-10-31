@@ -30,7 +30,7 @@
 
 ### It's not cheating if you learn
 > [Video walkthrough](/Lab_1/materials/lab1_edited.mp4)<br>
-> [Slides](/Lab_1/materials/lab1.ppt)
+> [Slides](/Lab_1/materials/Lab1.ppt)
 
 ---
 ## Recap
