@@ -39,7 +39,7 @@
 
 ##### Trigger: Client asks for new feature
 ##### Outcome: Feature in use by client in production
-<div>
+
 - Each squad creates a Value Stream map
 - Identify each of the steps in the process from trigger to outcome
 - Use experience or rough estimates to guess the time taken at each step
@@ -66,9 +66,14 @@
 1. Culture: Fostering two things: continual experimentation, risk-taking and fast-failure-with-learning; and that repetition and practice is the prerequisite to mastery.
 
 ---
+## And now a word from our sponsors
+<br>
+* [Product Owner in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
+
+
+---
 * [Agile Engineering Culture - Part 1](https://www.youtube.com/watch?v=4GK1NDTWbkY)
 * [Agile Engineering Culture - Part 2](https://www.youtube.com/watch?v=rzoyryY2STQ&t=5s)
-* [Product Owner in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
 
 ---
 ## DevOps enables Agility
