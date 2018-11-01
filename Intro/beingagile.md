@@ -23,13 +23,13 @@
 ![DevOps principles](/images/2018/11/devops-principles.png)
 
 ---
-![Continuous delivery](images/2018/11/continuous-delivery.png)
+![Continuous delivery](/images/2018/11/continuous-delivery.png)
 
 ---
-![SAFe DevOps](images/2018/11/safe-devops.png)
+![SAFe DevOps](/images/2018/11/safe-devops.png)
 
 ---
-![SAFe DevOps Health Radar](images/2018/11/safe-devops-health-radar.png)
+![SAFe DevOps Health Radar](/images/2018/11/safe-devops-health-radar.png)
 
 
 * [Agile Engineering Culture - Part 1](https://www.youtube.com/watch?v=4GK1NDTWbkY)
