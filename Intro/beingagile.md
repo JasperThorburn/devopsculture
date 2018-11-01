@@ -63,7 +63,7 @@
 
 1. Left-To-Right: The forward flow of work through the entire teams, incl. controlling WIP, minimizing hand-offs, parallelizing, ...
 1. Right-To-Left: Amplification and shortening of feedback loops and embedding lessons learned.
-1. Culture: Fostering two things: continual experimentation, risk-taking and fast-failure-with-learning; and that repetition and practice is the prerequisite to mastery.
+1. Culture: Fostering continual experimentation, risk-taking and fast-failure-with-learning; and that repetition and practice is the prerequisite to mastery.
 
 ---
 ## And now a word from our sponsors
