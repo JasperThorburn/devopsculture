@@ -73,9 +73,9 @@
 ---
 ## Scaled Agile Framework - SAFe
 
-![SAFe 4.5](images/2018/11/safe-4-5.png)
+![SAFe 4.5](/images/2018/11/safe-4-5.png)
 
-*[SAFe 4 in 5 (min)](https://www.youtube.com/watch?annotation_id=annotation_2350167435&feature=iv&src_vid=WZzeNQm7L0w&v=tmJ_mJw8xec)
+:film_camera: [SAFe 4 in 5 (min)](https://www.youtube.com/watch?annotation_id=annotation_2350167435&feature=iv&src_vid=WZzeNQm7L0w&v=tmJ_mJw8xec)
 
 ---
 * [Agile Engineering Culture - Part 1](https://www.youtube.com/watch?v=4GK1NDTWbkY)
