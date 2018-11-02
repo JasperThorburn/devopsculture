@@ -7,6 +7,9 @@
 ---
 ![Scrum](/images/2018/11/scrum.png)
 
+This short video highlights the workings of Scrum
+
+:movie_camera: [Product Owner in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
 ---
 ![What does DevOps mean to you?](/images/2018/11/what-does-devops-mean-to-you.png)
 
@@ -80,15 +83,7 @@
 [...and here](https://leankit.com/learn/lean/principles-of-lean-development/)
 
 ---
-## SCRUM
-
----
 ## Kanban
-
----
-## And now a word from our sponsors
-<br>
-* [Product Owner in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
 
 ---
 ## Don't Panic!
