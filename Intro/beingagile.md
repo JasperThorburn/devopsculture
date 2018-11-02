@@ -78,6 +78,16 @@
 :movie_camera: [SAFe 4 in 5 (min)](https://www.youtube.com/watch?annotation_id=annotation_2350167435&feature=iv&src_vid=WZzeNQm7L0w&v=tmJ_mJw8xec)
 
 ---
+## Ready to Rock?
+
+1. Start VirtualBox (v5.0.26)
+2. Log in (if prompted to)
+> Username  is 	devops
+> Password is 		devops
+5. Start Chrome (inside the VM) to test Internet connectivity
+6. Git practice - https://try.github.io/
+
+---
 * [Agile Engineering Culture - Part 1](https://www.youtube.com/watch?v=4GK1NDTWbkY)
 * [Agile Engineering Culture - Part 2](https://www.youtube.com/watch?v=rzoyryY2STQ&t=5s)
 
