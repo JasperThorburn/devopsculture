@@ -4,7 +4,7 @@ This repository contains the materials for the DevOps Workshop.
 
 ## Important Links
 
-* [Attendance Registration](./presentations/Attendance%20Registration%20Slide-2.ppt)
+* [Attendance Registration](/Prereqs/registration.md)
 * [Prerequisites](/Prereqs/README.md)
 
 ### Our three target outcomes remain the same...

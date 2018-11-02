@@ -66,6 +66,26 @@
 1. Culture: Fostering continual experimentation, risk-taking and fast-failure-with-learning; and that repetition and practice is the prerequisite to mastery.
 
 ---
+## The Seven Priciples of _Lean_ Development
+
+1. Eliminate waste
+2. Build in quality
+3. Create knowledge
+4. Defer commitment
+5. Deliver quickly
+6. Respect people
+7. Optimize the whole
+
+[More on each principle here](http://www.disciplinedagiledelivery.com/lean-principles/)
+[...and here](https://leankit.com/learn/lean/principles-of-lean-development/)
+
+---
+## SCRUM
+
+---
+## Kanban
+
+---
 ## And now a word from our sponsors
 <br>
 * [Product Owner in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
