@@ -82,9 +82,9 @@
 
 1. Start VirtualBox (v5.0.26)
 2. Log in (if prompted to)
-> Username  is 	devops
-> ...
-> Password is 		devops
+> Username  is 	_devops_
+> ... and ... &nbsp;
+> Password is 		_devops_
 5. Start Chrome (inside the VM) to test Internet connectivity
 6. Git practice - https://try.github.io/
 
