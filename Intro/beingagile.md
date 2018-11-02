@@ -88,6 +88,8 @@
 - Git practice - https://try.github.io/
 
 ---
+## How Spotify implements lean agile Development
+
 * [Agile Engineering Culture - Part 1](https://www.youtube.com/watch?v=4GK1NDTWbkY)
 * [Agile Engineering Culture - Part 2](https://www.youtube.com/watch?v=rzoyryY2STQ&t=5s)
 
