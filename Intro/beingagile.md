@@ -81,6 +81,8 @@ This short video highlights the workings of Scrum
 ---
 ## Kanban
 
+![Kanban](/images/2018/11/kanban.png)
+
 ---
 ## Essential SAFe
 
