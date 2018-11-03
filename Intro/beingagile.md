@@ -34,9 +34,6 @@ This short video highlights the workings of Scrum
 ![SAFe DevOps](/images/2018/11/safe-devops.png)
 
 ---
-![SAFe DevOps Health Radar](/images/2018/11/safe-devops-health-radar.png)
-
----
 ![Value stream map](/images/2018/11/value-stream-map.png)
 
 ---
@@ -91,6 +88,10 @@ This short video highlights the workings of Scrum
 ## Essential SAFe
 
 ![Essential SAFe](/images/2018/11/essential-safe.png)
+
+---
+## SAFe DevOps Health Radar
+![SAFe DevOps Health Radar](/images/2018/11/safe-devops-health-radar.png)
 
 ---
 ## Portfolio SAFe
