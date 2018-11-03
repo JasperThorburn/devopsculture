@@ -35,12 +35,14 @@ This repository contains the materials for the DevOps Workshop.
 | Lecture, tutorial, discussion                                                                                                            | :hourglass_flowing_sand: |
 | :--------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- |
 | [Opening & Introductions](/Intro/README.md)                                                                                                             | 1:00 (9:30 - 10:30)
-| [Being Agile](/Intro/beingagile.md) | 1:30 (10:30 - 12:00)
-| _Lunch Break_                                                                                                                            | 1:00 (12:00 - 13:00)     |
-| [Lab 1 - Environment](/Lab_1/README.md) | 2:00 (13:00 - 15:00)
+| _Break_ | 0:15 (10:30 - 10:45)
+| [Being Agile](/Intro/beingagile.md) | 2:15 (10:45 - 13:00)
+| _Lunch Break_                        | 1:00 (13:00 - 14:00)     |
+| [Lab 1 - Environment](/Lab_1/README.md) | 1:00 (14:00 - 15:00)
 | _Break_                                                                                                                                  | 0:15 (15:00 - 15:15)     |
 | [Lab 1 cont'd](/Lab_1/lab1.md) | 2:00 (15:15 - 17:15)
 | :tophat: Day 1 Recap                                                                                                                              | 0:15 (17:15 - 17:30)
+| :fork_and_knife: :wine_glass: _Dinner_                           | (19:00)     |
 
 ---
 ## Day 2 - Pipeline & Functional Testing
@@ -48,12 +50,15 @@ This repository contains the materials for the DevOps Workshop.
 | Lecture, tutorial, discussion                  | :hourglass_flowing_sand: |
 |:---------------------------------------------- |:------------------------ |
 | :tophat: Recap of Day 1 | 0:15 (9:00 - 09:15)      |
-| [Lab 2 - Scaling](/Lab_2/README.md) | 2:45 (9:15 - 12:00)      |
-| _Lunch Break_                                  | 1:00 (12:00 - 13:00)     |
-| [Lab 3 - Functional Testing](/Lab_3/README.md)             | 2:00 (13:00 - 15:00)     |
+| [Lab 2 - Scaling](/Lab_2/README.md) | 1:15 (9:15 - 10:30)      |
+| _Break_ | 0:15 (10:30 - 10:45)
+| [Lab 2 - cont'd](/Lab_2/README.md) | 2:15 (10:45 - 13:00)      |
+| _Lunch Break_                                  | 1:00 (13:00 - 14:00)     |
+| [Lab 3 - Functional Testing](/Lab_3/README.md)             | 1:00 (14:00 - 15:00)     |
 | _Break_                                        | 0:15 (15:00 - 15:15)     |
 | [Lab 3 cont'd](/Lab_3/README.md)               | 2:00 (15:15 - 17:15)     |
 | :tophat: Day 2 Recap                           | 0:15 (17:15 - 17:30)     |
+| :fork_and_knife: :wine_glass: _Dinner_                           | (19:00)     |
 
 ---
 ## Day 3 - NFRs, Scaling Jenkins, Info Radiators, Cloud
@@ -61,9 +66,10 @@ This repository contains the materials for the DevOps Workshop.
 | Lecture, tutorial, discussion                  | :hourglass_flowing_sand: |
 |:---------------------------------------------- |:------------------------ |
 | :tophat: Recap of Day 2 | 0:15 (9:00 - 09:15)      |
-| [Lab 4 - Non-Functional Testing](/Lab_4/README.md) | 1:30 (9:15 - 10:45)      |
-| [Lab 5 - Scaling Jenkins](/Lab_5/README.md) | 1:15 (10:45 - 12:00)      |
-| _Lunch Break_                                  | 1:00 (12:00 - 13:00)     |
-| [Lab 6 - Information Radiators & Monitoring](/Lab_6/README.md)             | 2:00 (13:00 - 15:00)     |
+| [Lab 4 - Non-Functional Testing](/Lab_4/README.md) | 1:15 (9:15 - 10:30)      |
+| _Break_ | 0:15 (10:30 - 10:45)
+| [Lab 5 - Scaling Jenkins](/Lab_5/README.md) | 1:15 (10:45 - 13:00)      |
+| _Lunch Break_                                  | 1:00 (13:00 - 14:00)     |
+| [Lab 6 - Information Radiators & Monitoring](/Lab_6/README.md)             | 1:00 (14:00 - 15:00)     |
 | [Lab 7 - Cloud &nbsp;&nbsp; _(if you have time)_](/Lab_7/README.md)             | 0:45 (15:00 - 15:45)  |
 | :tophat: Day 3 Recap and goodbyes                | 0:15 (15:45 - 16:00)     |
