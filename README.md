@@ -38,7 +38,7 @@ This repository contains the materials for the DevOps Workshop.
 | _Break_ | 0:15 (10:30 - 10:45)
 | [Being Agile](/Intro/beingagile.md) | 2:15 (10:45 - 13:00)
 | _Lunch Break_                        | 1:00 (13:00 - 14:00)     |
-| [Lab 1 - Environment](/Lab_1/README.md) | 1:00 (14:00 - 15:00)
+| [:move_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSB-_-44ff1KEfVSgm0) [Lab 1 - Environment](/Lab_1/README.md) | 1:00 (14:00 - 15:00)
 | _Break_                                                                                                                                  | 0:15 (15:00 - 15:15)     |
 | [Lab 1 cont'd](/Lab_1/lab1.md) | 2:00 (15:15 - 17:15)
 | :tophat: Day 1 Recap                                                                                                                              | 0:15 (17:15 - 17:30)
