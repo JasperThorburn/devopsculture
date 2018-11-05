@@ -1,5 +1,7 @@
 # Lab 2 - Attack of the Pipelines
 
+[:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqVsvau2Hn6kzyet3I)
+
 ## Exercises
 
 * [Step 1](/Lab_2/Lab2_Step_1.pdf)
