@@ -1,6 +1,4 @@
-# Lab 1 - The Environment Provisioning Menace
-
-[:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqVZvKRfVrLT5zkKvA)
+# Lab 1 - The Environment Provisioning Menace [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSB-_-44ff1KEfVSgm0)
 
 ## Tools
 

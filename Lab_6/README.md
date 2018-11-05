@@ -1,4 +1,4 @@
-# Lab 6 - Return of the Dashboards
+# Lab 6 - Return of the Dashboards [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqWNwGGB97ClUxc9Q0)
 
 ## Exercises
 
