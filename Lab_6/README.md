@@ -1,4 +1,4 @@
-# Lab 6 - Dashboards (Information Radiators)
+# Lab 6 - Return of the Dashboards
 
 ## Exercises
 

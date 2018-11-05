@@ -1,4 +1,4 @@
-# Lab 1 - Environment
+# Lab 1 - Lab 1 - The Environment Provisioning Menace
 
 ## Tools
 

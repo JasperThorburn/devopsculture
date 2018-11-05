@@ -1,4 +1,4 @@
-# Lab 3 - Functional Testing
+# Lab 3 - Revenge of the Functional Testing
 
 ## Exercises
 

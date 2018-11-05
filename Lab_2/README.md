@@ -1,4 +1,4 @@
-# Lab 2 - Pipelines
+# Lab 2 - Attack of the Pipelines
 
 ## Exercises
 

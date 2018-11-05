@@ -1,4 +1,4 @@
-# Lab 7 - Cloud
+# Lab 7 - The Cloud Awakens
 
 ## Exercises
 

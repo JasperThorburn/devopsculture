@@ -1,4 +1,4 @@
-# Lab 5 - Scaling
+# Lab 5 - Scalability Strikes Back
 
 ## Exercises
 

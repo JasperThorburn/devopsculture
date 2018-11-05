@@ -30,7 +30,7 @@ This repository contains the materials for the DevOps Workshop.
 ---
 # Agenda
 
-## Day 1 - Introduction, Agile & DevOps, IBM Cloud and Exercise 1
+## Day 1 - Introduction, Agile & DevOps, IBM Cloud and Environment
 
 | Lecture, tutorial, discussion                                                                                                            | :hourglass_flowing_sand: |
 | :--------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- |
@@ -38,23 +38,23 @@ This repository contains the materials for the DevOps Workshop.
 | _Break_ | 0:15 (10:30 - 10:45)
 | [Being Agile](/Intro/beingagile.md) | 2:15 (10:45 - 13:00)
 | _Lunch Break_                        | 1:00 (13:00 - 14:00)     |
-| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSB-_-44ff1KEfVSgm0) [Lab 1 - Environment](/Lab_1/README.md) | 1:00 (14:00 - 15:00)
+| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSB-_-44ff1KEfVSgm0) [Lab 1 - The Environment Provisioning Menace](/Lab_1/README.md) | 1:00 (14:00 - 15:00)
 | _Break_                                                                                                                                  | 0:15 (15:00 - 15:15)     |
 | [Lab 1 cont'd](/Lab_1/lab1.md) | 2:00 (15:15 - 17:15)
 | :tophat: Day 1 Recap                                                                                                                              | 0:15 (17:15 - 17:30)
 | :fork_and_knife: :wine_glass: _Dinner_                           | (19:00)     |
 
 ---
-## Day 2 - Pipeline & Functional Testing
+## Day 2 - Pipelines & Functional Testing
 
 | Lecture, tutorial, discussion                  | :hourglass_flowing_sand: |
 |:---------------------------------------------- |:------------------------ |
 | :tophat: Recap of Day 1 | 0:15 (9:00 - 09:15)      |
-| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqVZvKRfVrLT5zkKvA) [Lab 2 - Scaling](/Lab_2/README.md) | 1:15 (9:15 - 10:30)      |
+| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqVZvKRfVrLT5zkKvA) [Lab 2 - Attack of the Pipelines](/Lab_2/README.md) | 1:15 (9:15 - 10:30)      |
 | _Break_ | 0:15 (10:30 - 10:45)
 | [Lab 2 - cont'd](/Lab_2/README.md) | 2:15 (10:45 - 13:00)      |
 | _Lunch Break_                                  | 1:00 (13:00 - 14:00)     |
-| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqVsvau2Hn6kzyet3I) [Lab 3 - Functional Testing](/Lab_3/README.md)             | 1:00 (14:00 - 15:00)     |
+| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqVsvau2Hn6kzyet3I) [Lab 3 - Revenge of the Functional Testing](/Lab_3/README.md)             | 1:00 (14:00 - 15:00)     |
 | _Break_                                        | 0:15 (15:00 - 15:15)     |
 | [Lab 3 cont'd](/Lab_3/README.md)               | 2:00 (15:15 - 17:15)     |
 | :tophat: Day 2 Recap                           | 0:15 (17:15 - 17:30)     |
@@ -66,10 +66,10 @@ This repository contains the materials for the DevOps Workshop.
 | Lecture, tutorial, discussion                  | :hourglass_flowing_sand: |
 |:---------------------------------------------- |:------------------------ |
 | :tophat: Recap of Day 2 | 0:15 (9:00 - 09:15)      |
-| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqWCX6JwE-piUfp3eL) [Lab 4 - Non-Functional Testing](/Lab_4/README.md) | 1:15 (9:15 - 10:30)      |
+| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqWCX6JwE-piUfp3eL) [Lab 4 - A Nonfunctional Hope Testing](/Lab_4/README.md) | 1:15 (9:15 - 10:30)      |
 | _Break_ | 0:15 (10:30 - 10:45)
-| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqWN6m-GrHVnWnfGvs) [Lab 5 - Scaling Jenkins](/Lab_5/README.md) | 1:15 (10:45 - 13:00)      |
+| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqWN6m-GrHVnWnfGvs) [Lab 5 - Scalability Strikes Back](/Lab_5/README.md) | 1:15 (10:45 - 13:00)      |
 | _Lunch Break_                                  | 1:00 (13:00 - 14:00)     |
-| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqWNwGGB97ClUxc9Q0) [Lab 6 - Information Radiators & Monitoring](/Lab_6/README.md)             | 1:00 (14:00 - 15:00)     |
-| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqWOgu4ogXb0vvy4W5) [Lab 7 - Cloud &nbsp;&nbsp; _(if you have time)_](/Lab_7/README.md)             | 0:45 (15:00 - 15:45)  |
+| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqWNwGGB97ClUxc9Q0) [Lab 6 - Return of the Dashboards](/Lab_6/README.md)             | 1:00 (14:00 - 15:00)     |
+| [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSqWOgu4ogXb0vvy4W5) [Lab 7 - The Cloud Awakens &nbsp;&nbsp; _(if you have time)_](/Lab_7/README.md)             | 0:45 (15:00 - 15:45)  |
 | :tophat: Day 3 Recap and goodbyes                | 0:15 (15:45 - 16:00)     |
