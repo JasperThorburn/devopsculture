@@ -36,8 +36,8 @@ This repository contains the materials for the DevOps Workshop.
 | :--------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- |
 | [Opening & Introductions](/Intro/README.md)                                                                                                             | 1:00 (9:30 - 10:30)
 | _Break_ | 0:15 (10:30 - 10:45)
-| [Being Agile](/Intro/beingagile.md) | 2:15 (10:45 - 13:00)
-| [Introducing DevOps](/Intro/devops.md) | 2:15 (10:45 - 13:00)
+| [Being Agile](/Intro/beingagile.md) | 1:00 (10:45 - 11:45)
+| [Introducing DevOps](/Intro/devops.md) | 1:15 (11:45 - 13:00)
 | _Lunch Break_                        | 1:00 (13:00 - 14:00)     |
 | [:movie_camera:](https://brorlandi.github.io/StarWarsIntroCreator/#!/AKSB-_-44ff1KEfVSgm0) [Lab 1 - The Environment Provisioning Menace](/Lab_1/README.md) | 1:00 (14:00 - 15:00)
 | _Break_                                                                                                                                  | 0:15 (15:00 - 15:15)     |
