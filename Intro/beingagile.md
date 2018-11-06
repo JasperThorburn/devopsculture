@@ -3,6 +3,16 @@
 &nbsp;&nbsp;&nbsp;:scroll:&nbsp;&nbsp;[The Manifesto](http://agilemanifesto.org)
 
 ---
+![Agile methodologies](/images/2018/11/agile-methodologies.png)
+
+---
+![Scrum](/images/2018/11/scrum.png)
+
+This short video highlights the workings of Scrum
+
+:movie_camera: [Product Owner in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
+
+---
 ![What does DevOps mean to you?](/images/2018/11/what-does-devops-mean-to-you.png)
 
 ---
@@ -13,16 +23,6 @@
 
 ---
 ![Wall of confusion 3](/images/2018/11/wall-of-confusion-3.png)
-
----
-![Agile methodologies](/images/2018/11/agile-methodologies.png)
-
----
-![Scrum](/images/2018/11/scrum.png)
-
-This short video highlights the workings of Scrum
-
-:movie_camera: [Product Owner in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
 
 ---
 ![DevOps principles](/images/2018/11/devops-principles.png)
