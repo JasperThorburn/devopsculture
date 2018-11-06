@@ -2,6 +2,10 @@
 
 &nbsp;&nbsp;&nbsp;:scroll:&nbsp;&nbsp;[The Manifesto](http://agilemanifesto.org)
 
+- Discuss the three most important Agile Manifesto principles for DevOps
+- Write them on your flip chart
+- Be prepared to share
+
 ---
 ![Agile methodologies](/images/2018/11/agile-methodologies.png)
 
