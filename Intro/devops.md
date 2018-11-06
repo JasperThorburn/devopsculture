@@ -18,6 +18,37 @@
 ![Continuous delivery](/images/2018/11/continuous-delivery.png)
 
 ---
+## Kanban
+
+![Kanban](/images/2018/11/kanban.png)
+
+### Principles of Kanban ()
+
+- Visualize Workflow - visualization vrs prescription
+- Limit Work In Progress (WIP) - yesterday's weather
+- Focus On Flow - interruptions = improvement opportunities
+- Continuous Improvement - monitor, analyze, improve
+
+---
+## SAFe DevOps Health Radar
+![SAFe DevOps Health Radar](/images/2018/11/safe-devops-health-radar.png)
+
+---
+## SAFe DevOps
+
+![SAFe DevOps](/images/2018/11/safe-devops.png)
+
+---
+## DA - Disciplined DevOps
+
+![DA - Disciplined DevOps](/images/2018/11/da-disciplined-devops.png)
+
+---
+## LeSS - Technical Excellence
+
+![LeSS Technical Excellence](/images/2018/11/less-technical-excellence.png)
+
+---
 ![Value stream map](/images/2018/11/value-stream-map.png)
 
 ---
@@ -64,37 +95,6 @@
 
 [More on each principle here](http://www.disciplinedagiledelivery.com/lean-principles/)
 [...and here](https://leankit.com/learn/lean/principles-of-lean-development/)
-
----
-## Kanban
-
-![Kanban](/images/2018/11/kanban.png)
-
-### Principles of Kanban ()
-
-- Visualize Workflow - visualization vrs prescription
-- Limit Work In Progress (WIP) - yesterday's weather
-- Focus On Flow - interruptions = improvement opportunities
-- Continuous Improvement - monitor, analyze, improve
-
----
-## SAFe DevOps Health Radar
-![SAFe DevOps Health Radar](/images/2018/11/safe-devops-health-radar.png)
-
----
-## SAFe DevOps
-
-![SAFe DevOps](/images/2018/11/safe-devops.png)
-
----
-## DA - Disciplined DevOps
-
-![DA - Disciplined DevOps](/images/2018/11/da-disciplined-devops.png)
-
----
-## LeSS - Technical Excellence
-
-![LeSS Technical Excellence](/images/2018/11/less-technical-excellence.png)
 
 ---
 ## Ready to Rock?
