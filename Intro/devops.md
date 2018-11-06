@@ -18,15 +18,15 @@
 ![Continuous delivery](/images/2018/11/continuous-delivery.png)
 
 ---
-## SAFe DevOps Health Radar
-![SAFe DevOps Health Radar](/images/2018/11/safe-devops-health-radar.png)
-
----
 ## SAFe DevOps
 
 ![SAFe DevOps](/images/2018/11/safe-devops.png)
 
 ### [https://www.scaledagileframework.com/devops/](https://www.scaledagileframework.com/devops/)
+
+---
+## SAFe DevOps Health Radar
+![SAFe DevOps Health Radar](/images/2018/11/safe-devops-health-radar.png)
 
 ---
 ## DA - Disciplined DevOps
