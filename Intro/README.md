@@ -34,12 +34,12 @@
 * Write your name on it
 * Find a Partner & Introduce yourself
 * Exchange Post-It!! Draw one part.
-> Eyes
-> Nose
-> Ears
-> Mouth
-> Hair
-> Chin
+> Eyes <br>
+> Nose <br>
+> Ears <br>
+> Mouth <br>
+> Hair <br>
+> Chin <br>
 * Change partner and draw next part
 
 ## Are you ready?
