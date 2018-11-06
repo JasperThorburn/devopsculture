@@ -30,9 +30,17 @@
 
 ## ...Break Some Ice
 
-* Draw a picture of someone in your squad.
-* Now do it again, but only draw one feature. Then get up and move one seat to your right, adding another feature to their drawing. Repeat until done.
-* One more time, but draw one feature and pass it to your squadmate to the right.
+* Get an A5 Post-It
+* Write your name on it
+* Find a Partner & Introduce yourself
+* Exchange Post-It!! Draw one part.
+> Eyes
+> Nose
+> Ears
+> Mouth
+> Hair
+> Chin
+* Change partner and draw next part
 
 ## Are you ready?
 
