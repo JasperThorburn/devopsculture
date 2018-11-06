@@ -70,6 +70,11 @@
 1. DevOps is not _just_ automation
 
 ---
+![5 ways NOT to do DevOps](/images/2018/11/5-ways-not-to-do-devops.png)
+
+### [https://medium.com/@dpkmathew/5-ways-not-to-do-devops-11d44375769e](https://medium.com/@dpkmathew/5-ways-not-to-do-devops-11d44375769e)
+
+---
 ### DevOps is about the _Three Ways_ (Gene Kim)
 
 1. Left-To-Right: The forward flow of work through the entire teams, incl. controlling WIP, minimizing hand-offs, parallelizing, ...
