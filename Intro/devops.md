@@ -38,15 +38,21 @@
 
 ![SAFe DevOps](/images/2018/11/safe-devops.png)
 
+### [https://www.scaledagileframework.com/devops/](https://www.scaledagileframework.com/devops/)
+
 ---
 ## DA - Disciplined DevOps
 
 ![DA - Disciplined DevOps](/images/2018/11/da-disciplined-devops.png)
 
+## [http://www.disciplinedagiledelivery.com/disciplineddevops](http://www.disciplinedagiledelivery.com/disciplineddevops)
+
 ---
 ## LeSS - Technical Excellence
 
 ![LeSS Technical Excellence](/images/2018/11/less-technical-excellence.png)
+
+## [https://less.works/less/technical-excellence/index.html](https://less.works/less/technical-excellence/index.html)
 
 ---
 ![Value stream map](/images/2018/11/value-stream-map.png)
