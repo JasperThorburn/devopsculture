@@ -33,4 +33,8 @@
 
 * VM installed and configured?
 
+## Grab the materials
+
+## [DevOps Technical Workshop on GitHub](https://ibm.biz/BdYwnT)
+
 [Next up: Being Agile](/Intro/beingagile.md)
