@@ -46,7 +46,7 @@
 ![Value stream map](/images/2018/11/value-stream-map.png)
 
 ---
-## Setting the scene
+## Activity
 
 ##### Trigger: Client asks for new feature
 ##### Outcome: Feature in use by client in production
