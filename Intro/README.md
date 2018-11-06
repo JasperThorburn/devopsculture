@@ -1,5 +1,10 @@
 # Individuals & Interactions
 
+## Materials on GitHub
+
+#### [https://ibm.biz/BdYwnT](https://ibm.biz/BdYwnT)
+
+---
 ## Your hosts
 
 ![Roy Mitchley](/images/folk/roy-mitchley.png)  [Roy Mitchley](https://w3.ibm.com/bluepages/profile.html?uid=084208806)
@@ -32,9 +37,5 @@
 ## Are you ready?
 
 * VM installed and configured?
-
-## Grab the materials
-
-## [DevOps Technical Workshop on GitHub](https://ibm.biz/BdYwnT)
 
 [Next up: Being Agile](/Intro/beingagile.md)
