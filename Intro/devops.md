@@ -82,7 +82,19 @@
 ![SAFe DevOps Health Radar](/images/2018/11/safe-devops-health-radar.png)
 
 ---
+## SAFe DevOps
+
 ![SAFe DevOps](/images/2018/11/safe-devops.png)
+
+---
+## DA - Disciplined DevOps
+
+![DA - Disciplined DevOps](/images/2018/11/da-disciplined-devops.png)
+
+---
+## LeSS - Technical Excellence
+
+![LeSS Technical Excellence](/images/2018/11/less-technical-excellence.png)
 
 ---
 ## Ready to Rock?
